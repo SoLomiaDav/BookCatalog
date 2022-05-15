@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj": {}
+    "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj": {
+    "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj",
+        "projectUniqueName": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj",
         "projectName": "BookCatalog.Core",
-        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\obj\\",
+        "projectPath": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj",
+        "packagesPath": "C:\\Users\\tatia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tatia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,17 +74,17 @@
         }
       }
     },
-    "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj": {
+    "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj",
+        "projectUniqueName": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj",
         "projectName": "Bookcatalog.Respositories",
-        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\obj\\",
+        "projectPath": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\Bookcatalog.Respositories.csproj",
+        "packagesPath": "C:\\Users\\tatia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\Bookcatalog.Respositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tatia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj"
+              "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj": {
+                "projectPath": "C:\\Users\\tatia\\Source\\Repos\\SoLomiaDav\\BookCatalog\\src\\BookCatalog\\BookCatalog.Core\\BookCatalog.Core.csproj"
               }
             }
           }
