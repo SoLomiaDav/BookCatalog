@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\bin\Debug\net6.0\Bookcatalog.Respositories.deps.json
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\bin\Debug\net6.0\Bookcatalog.Respositories.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\bin\Debug\net6.0\Bookcatalog.Respositories.pdb
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\bin\Debug\net6.0\BookCatalog.Core.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\bin\Debug\net6.0\BookCatalog.Core.pdb
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.AssemblyInfo.cs
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.csproj.CopyComplete
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\refint\Bookcatalog.Respositories.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\Bookcatalog.Respositories.pdb
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\Bookcatalog.Respositories\obj\Debug\net6.0\ref\Bookcatalog.Respositories.dll

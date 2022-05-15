@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\bin\Debug\net6.0\BookCatalog.Core.deps.json
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\bin\Debug\net6.0\BookCatalog.Core.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\bin\Debug\net6.0\BookCatalog.Core.pdb
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.AssemblyInfo.cs
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\refint\BookCatalog.Core.dll
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\BookCatalog.Core.pdb
+C:\Users\Asus\Documents\GitHub\BookCatalog\src\BookCatalog\BookCatalog.Core\obj\Debug\net6.0\ref\BookCatalog.Core.dll

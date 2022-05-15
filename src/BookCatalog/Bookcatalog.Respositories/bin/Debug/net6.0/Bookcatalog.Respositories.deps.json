@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bookcatalog.Respositories/1.0.0": {
+        "dependencies": {
+          "BookCatalog.Core": "1.0.0"
+        },
+        "runtime": {
+          "Bookcatalog.Respositories.dll": {}
+        }
+      },
+      "BookCatalog.Core/1.0.0": {
+        "runtime": {
+          "BookCatalog.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bookcatalog.Respositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookCatalog.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
